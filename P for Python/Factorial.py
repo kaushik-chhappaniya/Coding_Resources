@@ -1,6 +1,9 @@
-#Coding_Resources
-
 #!/usr/bin/env python
+#Coding_Resources
+""" Find the factors of the given input number """
+__author__      = "Kaushik Chhappaniya"
+__copyright__   = "Copyright 2023, Coding_Resources"
+
 def factorial(num):
                 print("The factorial of the number is: ")
                 fact = 1
@@ -12,8 +15,9 @@ def factorial(num):
 		print(fact)
 
 
-num = int(input("Enter a number to calculate the factorial   "))
-fact = factorial(num)
+if __name__ == "__main__":
+	num = int(input("Enter a number to calculate the factorial   "))
+	fact = factorial(num)
 
         
 
