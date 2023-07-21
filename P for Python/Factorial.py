@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #Coding_Resources
-""" Find the factors of the given input number """
+""" Find the factorial of the given input number """
 __author__      = "Kaushik Chhappaniya"
 __copyright__   = "Copyright 2023, Coding_Resources"
 
