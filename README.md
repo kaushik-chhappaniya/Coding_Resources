@@ -1,7 +1,7 @@
 
 # Coding Resources
-==================
-Hello Geeks,
+
+<br>Hello Geeks,
 <p>Welcome to a Gallery that explores a lake of codes and related examples...</p>
 <p><br> Here onwards this can be your gateway to start and learn via small code snippets. </p>
 <p> The repository contains <strong><em>two</em></strong> folders :- </p>
