@@ -1,6 +1,9 @@
-#Coding_Resources
-
 #!/usr/bin/env python
+#Coding_Resources
+""" Guess the number game. Guess number in the range 1 to 100 """
+__author__      = "Kaushik Chhappaniya"
+__copyright__   = "Copyright 2023, Coding_Resources"
+
 import random
 
 def guess(number):
@@ -18,7 +21,7 @@ def guess(number):
 			exit()
 		trial_num = trial_num + 1
 	
-print("Let me guess any number from 1 to 100")
-number = random.randint(1,100)
-
-guess(number)
+if __name__ == "__main__":
+	print("Let me guess any number from 1 to 100")
+	number = random.randint(1,100)
+	guess(number)
